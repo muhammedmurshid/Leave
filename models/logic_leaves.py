@@ -33,7 +33,7 @@ class LogicLeaves(models.Model):
         #
         # print(admin, 'admin')
         # print(approve, 'approve')
-        admin_hr = '9048625264'
+        admin_hr = '9567799581'
         hr_pro = '78564378'
         user = 'HR Manager'
         message_applied = "Hi " + user + ", an employee has requested leave in Logic HRMS. For more details login to https://corp.logiceducation.org"
